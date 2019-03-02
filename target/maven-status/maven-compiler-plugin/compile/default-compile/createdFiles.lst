@@ -1,0 +1,7 @@
+org/eclipse/che/examples/GreetingController.class
+org/eclipse/che/model/Users.class
+org/eclipse/che/model/Response.class
+org/eclipse/che/daoImpl/UserDaoImpl.class
+org/eclipse/che/dao/UserDao.class
+org/eclipse/che/service/UserService.class
+org/eclipse/che/model/UserMapper.class

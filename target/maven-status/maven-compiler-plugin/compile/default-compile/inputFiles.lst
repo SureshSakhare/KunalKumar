@@ -1,0 +1,7 @@
+/projects/spring-boot-template/src/main/java/org/eclipse/che/dao/UserDao.java
+/projects/spring-boot-template/src/main/java/org/eclipse/che/examples/GreetingController.java
+/projects/spring-boot-template/src/main/java/org/eclipse/che/model/Users.java
+/projects/spring-boot-template/src/main/java/org/eclipse/che/model/Response.java
+/projects/spring-boot-template/src/main/java/org/eclipse/che/service/UserService.java
+/projects/spring-boot-template/src/main/java/org/eclipse/che/daoImpl/UserDaoImpl.java
+/projects/spring-boot-template/src/main/java/org/eclipse/che/model/UserMapper.java
